@@ -1,5 +1,4 @@
-# weibo_collection
-爬取微博内容，保存数据到MongoDB
+# weibo_collection：爬取微博收藏的内容，保存数据到MongoDB
 
 1.在cookies.py中填入微博用户名和密码
 
